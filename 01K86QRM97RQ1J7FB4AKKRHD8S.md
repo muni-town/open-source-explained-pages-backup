@@ -3,34 +3,42 @@ What is open source?
 
 The term ‘open source’ started in software development, but it is applicable to anything. If a _thing_ is open source, first and foremost it means you have access to its _source code_ — what makes that thing tick.
 
-If a thing is open source, it means that the source code of that thing is available for insight and editing, and may even be copied, repurposed and shared with others under certain conditions.
+If a thing is open source, it means that the source code of that thing is openly available for insight and editing, and may even be copied, repurposed and shared with others under certain conditions.
 
 Here is an open source recipe for making popcorn:
 
-*   Put some cooking oil in a thin and shallow pot
+1.  Put some cooking oil in a thin and shallow pot
     
-*   Bring it to medium heat
+2.  Bring it to medium heat
     
-*   Put a handful of dried corn into the pot
+3.  Put a handful of dried corn into the pot
     
-*   Gradually increase heat until the corn starts popping
+4.  Gradually increase heat until the corn starts popping
     
-*   Add any flavoring of your choice
+5.  Add any flavoring of your choice
     
 
-That is a food recipe _code_. Everything in our knowable world is made up of some type of code, it’s not just computer programs:
+This is a recipe _code_ explaining how to produce a type of food, coded by outlining its production process. The self-contained piece of code in the above example is intended for humans; I wouldn’t yet trust a robot with plain-english instructions for something this hazardous.
 
-Our music is composed of note codes.
+Everything in our knowable world is made up of some type of code, it’s not just computer programs:
 
-Our judicial system is made up of legal codes.
+*   Our music is composed of note codes.
+    
+*   Our judicial system is made up of legal codes.
+    
+*   Our government is a big ol’ pile of bureaucratic codes.
+    
+*   Our educational institutions abide by pedagogical codes.
+    
+*   Our DNA is one long genetic code.
+    
 
-Our government is a big ol’ pile of bureaucratic codes.
+Defining open source
+--------------------
 
-Our educational system abides by pedagogical codes.
+Most dictionaries will give the impression that open source (sometimes written open-source) as a concept exists primarily for software, but as I’ll show later the praxis of open source co-creation and _commoning_ is multi-disciplinary and not limited to any specific industry or discipline.
 
-Our DNA is one long genetic code.
-
-Most dictionaries will give the impression that open source as a concept exists primarily for software, but that would be a massive waste of its potential. I did find one that I liked:
+I did find one dictionary-definition that I liked:
 
 > [‘**open-source**](https://www.dictionary.com/browse/open-source) [’ on Dictionary.com](https://www.dictionary.com/browse/open-source):
 > 
@@ -50,4 +58,4 @@ _Closed source_ is the conceptual opposite of open source:
 > 1.  intellectual property, esp computer source code, that is not made available to the general public by its creators.
 >     
 
-In other words, closed-source products belong strictly to the people who made them, whereas open-source products exemplify various forms of collective ownership.
+In other words the inner workings of closed-source products are completely opaque and belong strictly to the people who made them, whereas open-source products are fully inspectable and collectively owned.
