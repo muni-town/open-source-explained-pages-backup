@@ -1,3 +1,4 @@
-# Testing Page
+Testing Page
+============
 
-New page. Fill me with something awesome. ✨
+Type here.
