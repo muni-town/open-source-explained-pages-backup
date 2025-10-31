@@ -56,6 +56,5 @@ _Closed source_ is the conceptual opposite of open source:
 > _noun_
 > 
 > 1.  intellectual property, esp computer source code, that is not made available to the general public by its creators.
->     
 
 In other words the inner workings of closed-source products are completely opaque and belong strictly to the people who made them, whereas open-source products are fully inspectable and collectively owned.
